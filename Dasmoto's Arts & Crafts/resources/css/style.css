@@ -1,0 +1,44 @@
+h1
+{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image:url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  <!-- I can't understand why if i use the project path (resources/image1.jpeg) to link the image it doesn't make effect -->
+}
+
+.brushes h2
+{
+  font-family: Helvetica;
+  font-size: : 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.frames h2
+{
+  font-family: Helvetica;
+  font-size: : 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.paint h2
+{
+  font-family: Helvetica;
+  font-size: : 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.price
+{
+  font-weight: bold;
+  font-family: Helvetica;
+  color:blue;
+}
